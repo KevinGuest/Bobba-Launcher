@@ -1,0 +1,7 @@
+node_modules
+yarn.lock
+/dist
+/.idea
+.env
+.env.*
+!.env.example
